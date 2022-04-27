@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-nav {
+  
+}
+.navbar-toggler{
+    background-color: white;
+    color: blue;
+}
+.nav-item {
+    margin-right: 10px;
+}
+.nav-link{
+    font-size: 16px;
+    font-weight: bolder;
+    color: white;
+    margin-right: 10px;
+    
+
+    
+}
+.nav-link:hover{
+    color: rgb(207, 255, 205);
+}
+.dropdown-menu{
+    background-color: #10146a;
+}
+.dropdown-item {
+    color: white;
+}
+.ok{
+    margin-bottom: 2px;
+     border-bottom: 5px solid red;
+}
+
+.carousel-item{
+    transition: transform 1s ease, opacity .1s ease-out
+ 
+}
+.section{
+     background-color: yellow;
+}
+
